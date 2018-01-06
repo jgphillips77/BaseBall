@@ -1,0 +1,7 @@
+2.15 Salaries table
+
+yearID         Year
+teamID         Team
+lgID           League
+playerID       Player ID code
+salary         Salary
