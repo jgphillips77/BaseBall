@@ -22,13 +22,9 @@ Part 4:
 Winners vs. Rockies:
 —Compare key features of Winners vs. Rockies.
 —Did Rockies over pay? Or under perform?
+—How can we be prescriptive…
 
 Part 5: Future
 Predictions:
 — “Its tough to make predictions, especially about the future.”-Yogi Berra
 —Can we use model to predict Pre-1903 WS Winners?
-
-Part 6: Future
-—How can we be prescriptive…
-—Give me more data to do so…
-—Give me player/team data that defines their skills/strength objectively…
